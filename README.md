@@ -2,7 +2,7 @@
 - 👀 I’m interested in education technologies and database systems.
 - 🌱 I’m currently learning Python and PHP.
 - 💞️ I’m looking to collaborate on education technologies.
-- 📫 How to reach me [instagram/ibrahimsansar](https://www.instagram.com/ibrahimsansar/?hl=tr)
+- 📫 How to reach me X
 
 <!---
 ibrahimsansar/ibrahimsansar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
