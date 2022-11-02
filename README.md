@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimsansar
-- 👀 I’m interested in education technologies and database systems.
-- 🌱 I’m currently learning Python and PHP.
+- 👀 I’m interested in education technologies, games and database systems.
+- 🌱 I’m currently learning C# Python and PHP.
 - 💞️ I’m looking to collaborate on education technologies.
 - 📫 How to reach me X
 
