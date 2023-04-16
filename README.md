@@ -2,7 +2,7 @@
 - 👀 I’m interested in education technologies, games and database systems.
 - 🌱 I’m currently learning C# Python and PHP.
 - 💞️ I’m looking to collaborate on education technologies.
-- 📫 How to reach me X
+- 📫 You can reach me from the social media addresses I have added below.
 
 <!---
 ibrahimsansar/ibrahimsansar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
