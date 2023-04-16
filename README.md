@@ -9,4 +9,4 @@ ibrahimsansar/ibrahimsansar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://tr.linkedin.com/in/ibrahimsansar)
-! [Deponuzun İstatistikleri] ( https://github-readme-stats.vercel.app/api? username = Your_GitHub_Username & show_icons = true)
+! [Deponuzun İstatistikleri] ( https://github-readme-stats.vercel.app/api? ibrahimsansar = Your_GitHub_Username & show_icons = true)
