@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimsansar
 - 👀 I’m interested in education technologies, games and database systems.
-- 🌱 I’m currently learning C# Python and PHP.
+- 🌱 I’m currently learning Unity C# Python and PHP.
 - 💞️ I’m looking to collaborate on education technologies.
 - 📫 You can reach me from the social media addresses I have added below.
 
